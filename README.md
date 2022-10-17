@@ -6,10 +6,10 @@ It is crucial when creating a project, to provide the user/audience with a detai
 
 ## Features
 The codebase has an abundance of features as stated below:
-- Uses flexbox elements to obtain a fully responsive webpage, compatible with a large range of screen dimensions
-- Has subtle transitions when the user interacts with the buttons on screen
-- Clicking any of the three options in the navigation bar will direct the user to the corrosponding section of the webpage
-- Contains "alt" phrases with descriptive titles of each image displayed, for screen readers 
+- Uses inquirer to prompt and retrieve data from the user
+- Uses node to run the application
+- User can enter their project title, overview, usage, license badges, contribution, tests, contact info and licence
+- Takes users data and populates a proffesional styled readme file
 
 [Walkthrough of application and its functionality](https://youtu.be/Ff3OoApbndY)
 
