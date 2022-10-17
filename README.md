@@ -2,7 +2,7 @@
 
 
 ## Overview
-It is crucial to have a deployed professiional portfolio in order to showcase my applications and projects to future employers. Using my current skills in HTML and CSS, I have created and deployed a live webpage that both showcases my website development skills, but also showcases my projects to employers.
+It is crucial when creating a project, to provide the user/audience with a detailed and informative document that gives them insight into yhe projects purpose, functionality, and accesibility. Readme-wizard does just this, as it gives users the ability to input all the neccesary data regarding their project, while readme-wizard does all he hard work and formats their data into a clean and proffesional readme file
 
 ## Features
 The codebase has an abundance of features as stated below:
@@ -11,10 +11,7 @@ The codebase has an abundance of features as stated below:
 - Clicking any of the three options in the navigation bar will direct the user to the corrosponding section of the webpage
 - Contains "alt" phrases with descriptive titles of each image displayed, for screen readers 
 
-![screenshot](assets/images/portfolio.png)
-![snippet](assets/images/portfolio.webm)
-
-
+[Walkthrough of application and its functionality](https://youtu.be/Ff3OoApbndY)
 
 ## Installation
 
