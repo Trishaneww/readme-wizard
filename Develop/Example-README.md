@@ -37,5 +37,5 @@ no testing yet!
 
 ## Questions
 
-### [Email](race@gmail.com)
-### [Github](https://github.com/raceuser123)
+- [Email](race@gmail.com)
+- [Github](https://github.com/raceuser123)
