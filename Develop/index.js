@@ -38,7 +38,7 @@ const questions = [
     {
         type: "list",
         name: "license",
-        message: "Please select from one of the valid licenses displayed below:",
+        message: "Select from one of the valid licenses displayed below:",
         choices: ['Zlib', 'MIT', 'ISC']
     },
     {
